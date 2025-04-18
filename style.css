@@ -1,0 +1,146 @@
+body {
+  background-color: #16171D;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+i {
+  color: #FFFFFF;
+}
+
+.container {
+  max-width: 90%;
+}
+
+#balance {
+  background-image: linear-gradient(to right, #B8D0F5, #5C90F4);
+  padding: 1em 2em;
+  margin: auto;
+  border-radius: 1.5em;
+  color: #494D58;
+  font-size: 1em;
+}
+
+.totalBalance {
+  margin-top: 1em;
+  font-size: 1em;
+}
+
+#balance h3 {
+  font-size: 2.25em;
+  font-weight: 600;
+  margin-top: -0.3em;
+}
+
+.todayProfit {
+  margin-bottom: 0;
+}
+
+#btc1 {
+  float: right;
+  width: 20%;
+  margin-right: 20%;
+}
+
+#btc2 {
+  float: right;
+  width: 40%;
+  margin-top: -6.5em;
+  margin-right: -30px;
+}
+.legenda {
+ color: #F5C249;
+ font-size: 0.85em;
+}
+
+h4 {
+  color: white;
+  font-size: 1.25em;
+}
+
+.highlight, #balance h3 {
+  color: #16171D;
+}
+
+.fa-arrow-trend-down {
+  color: #FF0000;
+}
+
+.coin {
+  background-color:#282B35;
+  padding: 1em;
+  border-radius: 1.25em;
+}
+
+.coin h5 {
+  color: #FFFFFF;
+  font-size: 1em;
+  margin: 0.8em;
+  display: inline;
+}
+
+.valor {
+  color: #A7AEBF;
+  font-size: 1em;
+  margin-top: 0.8em;
+  font-weight: 400;
+}
+
+.fa-bitcoin {
+  color: #F7931A;
+}
+
+.lucratividade, .fa-caret-up, .fa-arrow-trend-up{
+  color: #00C566;
+}
+
+.lucratividade {
+  font-size: 0.85em;
+  margin-top: 0.5em;
+}
+
+.noticia {
+  background-color: #282B35;
+  padding: 0.85em 0.2em;
+  border-radius: 1em;
+  margin-bottom: 1em;
+  color:#FFFFFF;
+}
+
+.textoNoticia {
+  display: inline;
+  font-size: 1em;
+}
+
+#footer {
+  background-color: #262932;
+  padding-top: 0.8em;
+  position: fixed;
+  bottom: 0;
+}
+
+.menu {
+  font-size: small;
+}
+
+.itemMenu, .itemMenu i {
+  color: #787a7d;
+}
+
+.itemMenu:hover {
+  color: #F5C249;
+}
+
+
+#plus {
+  color: white;
+  background-color: #F5C249;
+  font-size: xx-large;
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 0.5em;
+  padding-top: 7px;
+  border-radius:50%;
+  text-align: center;
+}
