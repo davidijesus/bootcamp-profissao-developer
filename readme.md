@@ -33,4 +33,4 @@ Este repositório contém as resoluções da **Atividade 1** do curso **Profiss�
 
 ## 🔗 Link do GitHub
 
-📌 [Seu perfil aqui](https://github.com/seu-usuario)
+📌 [Davi Nascimento de Jesus](https://github.com/davidijesus)
