@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>.: The Crypto App :.</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Header -->
+     <div class="container">
+        <div class="row">
+            <div class="col-12 text-end mt-3 mb-3">
+                <i class="fa-solid fa-magnifying-glass fa-2x mx-2"></i>
+                <i class="fa-regular fa-bell fa-2x"></i>
+            </div>
+
+        </div>
+     </div>
+
+    <!-- Balance -->
+    <div class="container">
+      <div class="row">
+        <div id="balance" class="col-12">
+          <img id="btc1" src="assets/btc1.png">
+          <p class="totalBalance">Total Balance</p>
+          
+          <h3>$18,368.11</h2>
+          
+          <p class="mt-5 todayProfit"><i class="fa-solid fa-arrow-trend-up"></i> <span class="highlight">$1,816.66</span>  Today's Profit</p>
+          <img id="btc2" src="assets/btc2.png">
+        </div>
+      </div>    
+    </div>   
+
+      <!-- Top Coins-->
+       <div class="container mt-5">
+            <div class="row">
+                <div class="col-9">
+                    <h4>Top Coins</h4>
+                </div>
+                <div class="col-3 text-end">
+                    <p class="legenda">See all</p>
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="col-6">
+                    <div class="coin">
+                      <i class="fa-brands fa-bitcoin"></i>
+                      <h5>Bitcoin</h5>
+                      <h4 class="valor">$45,898.16</h4>
+                      <p class="lucratividade">24.55% <i class="fa-solid fa-caret-up"></i></p>
+                      <img src="assets/chartline.png" width="100%" alt="chartline">
+                    </div>
+                </div>
+                <div class="col-6">
+                  <div class="coin">
+                      <i class="fa-brands fa-ethereum"></i>
+                      <h5>Ethereum</h5>
+                      <h4 class="valor">$5.898,16</h4>
+                      <p class="lucratividade">2,55% <i class="fa-solid fa-caret-up fa0.4x"></i></p>
+                      <img src="assets/chartline.png" width="100%" alt="chartline">
+                  </div>
+                </div>
+            </div>
+       </div>
+      
+      <!-- News-->
+       <div class="container mt-5">
+        <div class="row">
+          <div class="col-9">
+              <h4>News</h4>
+          </div>
+          <div class="col-3 text-end">
+              <p class="legenda">See all</p>
+          </div>
+        </div>
+        <div class="row mt-2 noticia">
+            <div class="col-4">
+                <img src="assets/news.png" width="100%" alt="coin">
+            </div>
+            <div class="col-8">
+              <span class="textoNoticia">Analysts project 32% upside for Coinbase stock despite... </span>
+            </div>
+        </div>    
+        <div class="row mt-2 noticia">
+          <div class="col-4">
+              <img src="assets/news.png" width="100%" alt="coin">
+          </div>
+          <div class="col-8">
+            <span class="textoNoticia">Analysts project 32% upside for Coinbase stock despite... </span>
+          </div>
+      </div> 
+      <div class="row mt-2 noticia">
+        <div class="col-4">
+            <img src="assets/news.png" width="100%" alt="coin">
+        </div>
+        <div class="col-8">
+          <span class="textoNoticia">Analysts project 32% upside for Coinbase stock despite... </span>
+        </div>
+    </div>  
+       </div>
+
+       <!-- Footer-->
+        <div class="container-fluid" id="footer">
+          <div class="row">
+              <div class="col-2 text-center itemMenu">
+                <i class="fa-solid fa-house icon"></i>
+                <p class="menu">Home</p>
+              </div>
+              <div class="col-2 text-center itemMenu">
+                <i class="fa-solid fa-chart-simple icon"></i>
+                <p class="menu">Market</p>
+              </div>
+              <div class="col-4 text-center">
+                <div id="plus">+</div>
+              </div>
+              <div class="col-2 text-center itemMenu">
+                <i class="fa-solid fa-chart-pie icon"></i>
+                <p class="menu">Portfolio</p>
+              </div>
+              <div class="col-2 text-center itemMenu">
+                <i class="fa-solid fa-gear icon"></i>
+                <p class="menu">Settings</p>
+              </div>
+        </div>
+      </div>
+  </body>
+</html>
