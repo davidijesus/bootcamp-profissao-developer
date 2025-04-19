@@ -6,7 +6,7 @@ Este repositório contém as resoluções da **Atividade 1** do curso **Profiss�
 
 ## 📁 Estrutura do Repositório
 
-- `algoritmos-logica/`  
+- `exercicios-logica/`  
   Contém os códigos dos exercícios resolvidos com base nos enunciados do site do Professor Isidro. Seguem abaixo as resoluções:
   - [1007](exercicios-logica/diferenca-1007.por)
   - [1017](exercicios-logica/gasto-combustivel-1017.por)
@@ -16,7 +16,7 @@ Este repositório contém as resoluções da **Atividade 1** do curso **Profiss�
   - [1114](exercicios-logica/senha-fixa-1114.por)
   - [1134](exercicios-logica/tipo-combustível-1134.por)
 
-- `frontend-lista-tarefas/`  
+- `lista-tarefas/`  
   Projeto de uma **Lista de Tarefas** utilizando **HTML + Bootstrap**, como parte opcional da atividade 1.
 
 - `crypto-app/`  
