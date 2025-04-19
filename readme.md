@@ -1,4 +1,4 @@
-# Pulse Mais - Bootcamp Profissão Developer 🧠💻
+# Pulse Mais - Bootcamp Profissão Developer 💻
 
 Este repositório contém as resoluções da **Atividade 1** do curso **Profissão Developer** promovido pela Pulse Mais.
 
@@ -20,14 +20,14 @@ Este repositório contém as resoluções da **Atividade 1** do curso **Profiss�
   Projeto de uma **Lista de Tarefas** utilizando **HTML + Bootstrap**, como parte opcional da atividade 1.
 
 - `crypto-app/`  
-  Projeto exemplo desenvolvido nas **aulas 7 e 8 do módulo de Front-End para quem não manja**, com foco em consumo de API e responsividade.
+  Projeto exemplo desenvolvido nas **aulas 7 e 8 do módulo de Front-End para quem não manja**, com foco em responsividade mobile.
 
 ---
 
 ## 🧩 Tecnologias Utilizadas
 
 - Lógica: Portugol Studio (pseudocódigo)
-- Front-End: HTML5, CSS3, Bootstrap 5, JavaScript
+- Front-End: HTML5, CSS3, Bootstrap 5.
 
 ---
 
